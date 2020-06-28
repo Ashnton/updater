@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=Updater
+Comment=Use this tool to update your system
+Exec=python /home/pi/.local/share/applications/updater/main.py
+Icon=/home/pi/.local/share/applications/updater/ikon.png
+Path=/home/pi/.local/share/applications/updater/
+Terminal=false
+Type=Application
+Categories=Utility;Application;
+
